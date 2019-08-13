@@ -1,0 +1,22 @@
+{
+  "name": "Mission Furniture Vol-I",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/mission-furniture-vol-i/master/assets",
+  "book_id": 1005,
+  "book_url": "https://bubblin.io/book/mission-furniture-vol-i-by-h-windsor"
+}
